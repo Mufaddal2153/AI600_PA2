@@ -1,5 +1,6 @@
 *.pth
-*.txt
+champion_model_submission.txt
+champion_model_v2_submission.txt
 *.pdf
 venv/
 *.zip
